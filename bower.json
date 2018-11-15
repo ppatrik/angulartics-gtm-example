@@ -1,0 +1,29 @@
+{
+  "name": "eprihlas",
+  "description": "eprihlas portal",
+  "main": "index.html",
+  "keywords": [
+    "angularjs",
+    "application"
+  ],
+  "authors": [
+    "engel"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "angular": "^1.7.5",
+    "angular-route": "^1.7.5",
+    "angulartics": "^1.6.0",
+    "angulartics-google-tag-manager": "^0.0.1"
+  }
+}
